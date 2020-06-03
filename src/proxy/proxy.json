@@ -1,0 +1,5 @@
+{
+  "siteUrl": "https://localhost:4321/temp/workbench.html",
+  "strategy": "UserCredentials",
+  "online": true
+}

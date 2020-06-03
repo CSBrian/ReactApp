@@ -9,7 +9,7 @@
   "scripts": {
     "build": "gulp bundle",
     "clean": "gulp clean",
-    "test": "gulp test"
+    "excute": "gulp serve --env.proxy='src/proxy/proxy.json'"
   },
   "dependencies": {
     "@microsoft/sp-core-library": "1.10.0",
