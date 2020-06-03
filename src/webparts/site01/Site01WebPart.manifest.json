@@ -14,14 +14,16 @@
   "requiresCustomScript": false,
   "supportedHosts": ["SharePointWebPart"],
 
-  "preconfiguredEntries": [{
-    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
-    "group": { "default": "Other" },
-    "title": { "default": "site01" },
-    "description": { "default": "site01 description" },
-    "officeFabricIconFontName": "Page",
-    "properties": {
-      "description": "site01"
+  "preconfiguredEntries": [
+    {
+      "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
+      "group": { "default": "Other" },
+      "title": { "default": "site01" },
+      "description": { "default": "site01 description" },
+      "officeFabricIconFontName": "Page",
+      "properties": {
+        "description": "site01"
+      }
     }
-  }]
+  ]
 }
